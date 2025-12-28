@@ -1,5 +1,5 @@
 # Transformer
-This project is the code for training a Transformer model. Using the Attention, the Encoder and Decoder process input and output. 
+Code for training a Transformer model. I used korean dataset
 
 ## Final score
 
